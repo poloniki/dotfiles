@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = poloniki@ya.ru
+	name = Nikita Polovinkin
